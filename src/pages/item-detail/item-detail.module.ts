@@ -4,7 +4,7 @@ import { ItemDetailPage } from './item-detail';
 
 @NgModule({
   declarations: [
-    ItemDetailPage,
+//    ItemDetailPage,
   ],
   imports: [
     IonicPageModule.forChild(ItemDetailPage),

@@ -4,7 +4,7 @@ import { EditItemPage } from './edit-item';
 
 @NgModule({
   declarations: [
-    EditItemPage,
+//    EditItemPage,
   ],
   imports: [
     IonicPageModule.forChild(EditItemPage),
